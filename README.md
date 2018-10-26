@@ -1,0 +1,2 @@
+# FuckSelfUpdater
+crc bypass
